@@ -163,12 +163,3 @@ Repository](https://github.com/224G5A3312/InternBot.git)
 Feel free to contribute by improving the FAQ dataset, adding a web
 interface, or enhancing the similarity matching algorithm.
 
-------------------------------------------------------------------------
-
-## 📄 License
-
-MIT License
-
-------------------------------------------------------------------------
-
-✨ Built with ❤️ using Python and NLP techniques

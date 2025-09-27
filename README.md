@@ -19,7 +19,7 @@ opportunities - Career growth advice
 
 ## 🛠️ Tools & Technologies
 
--   Python\
+-   Python\, Flask
 -   Scikit-learn (TF-IDF, Cosine Similarity)\
 -   NLP (Natural Language Processing)
 
